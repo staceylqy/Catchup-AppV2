@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Cognitive Ease",
+  "description": "AI-powered smart inbox and message intelligence dashboard that helps summarize chats, find key insights, and suggest smart replies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
